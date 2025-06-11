@@ -1,0 +1,15 @@
+# GitHub Pages Jekyll 설정
+plugins:
+  - jekyll-sitemap
+
+# Apple App Site Association 파일을 위한 설정
+include:
+  - .well-known
+  - apple-app-site-association
+
+# MIME 타입 설정
+defaults:
+  - scope:
+      path: "apple-app-site-association"
+    values:
+      sitemap: false 
