@@ -9,3 +9,4 @@ SEO 보강 항목:
 - WebSite, Organization, SoftwareApplication, WebPage JSON-LD 구조화 데이터
 - `robots.txt`, `sitemap.xml`, 이미지 sitemap 메타데이터
 - 성경체크리스트앱, 성경앱, 바이블, Bible, 오늘의 만나, 만나, 체크리스트 관련 검색 의도 반영
+- `/todays-manna/`, `/todays-manna.html` 기존 경로 리다이렉트
